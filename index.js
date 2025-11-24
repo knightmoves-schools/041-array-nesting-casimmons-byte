@@ -1,4 +1,5 @@
-   [1,3,5], 
+const groupedNumbers = [
+    [1,3,5], 
     [2,4,6]
 ];
 
